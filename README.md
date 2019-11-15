@@ -6,7 +6,7 @@
 <p>&nbsp;</p>
 <p><span style="color: #3366ff;"><strong>Python Proyect with API Zabbix</strong></span></p>
 <p>With this code you can print and send to file csv all your <strong>currently</strong> problems (in this case with <strong>trigger</strong>:&nbsp;<span style="color: #ff0000;">{HOST.NAME} is unavailable by ICMP"</span> ) about your hosts(<span style="color: #339966;">enable or disbale</span>)</p>
-You can check this in your IDE because the script print de query.
+You can check this in your IDE because the script print the query.
 
 ![Optional Text](https://github.com/Githubtonyale89/API-Zabbix-Proyects/blob/master/Captura1.1.PNG) 
 
