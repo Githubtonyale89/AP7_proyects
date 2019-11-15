@@ -1,2 +1,2 @@
-# AP7_API_zabbix_python_get_problem
+# API zabbix python get_problems
 API_zabbix
